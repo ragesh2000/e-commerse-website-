@@ -1,0 +1,41 @@
+.img-icon1{
+	width:40px;
+}
+.img-icon2{
+	width:40px;
+}
+.img-icon3{
+	width:40px;
+}
+#discount{
+	text-decoration: line-through;
+	text-decoration-color: red;
+	margin-left:20px;
+
+
+}
+botton{
+	margin-left: 40px;
+}
+#color{
+	margin-top:35px;
+	font-size:25px;
+	font-family:Times New Roman;
+}
+#sort{
+	margin-top:20px;
+	font-size:25px;
+	font-family:Times New Roman;
+}
+.rating{
+	width:100px;
+	margin-left: 30px;
+}
+.rate:hover{
+	background-color: lightgrey;
+	
+
+}
+.rate{
+	color: blue;
+}
